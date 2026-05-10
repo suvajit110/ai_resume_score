@@ -26,9 +26,4 @@ AI Resume Score is a MERN stack web application that analyzes resumes and provid
 - MongoDB
 - JWT Authentication
 
-## Installation
 
-### Clone Repository
-
-```bash
-git clone https://github.com/suvajit110/ai_resume_score.git
